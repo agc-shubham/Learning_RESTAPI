@@ -8,3 +8,4 @@ making REST endpoints
 3. Created endpoints to post data to(using POST method) create store, create item in a specific store.
 ## Flask-RESTful
 ### Creating endpoints for different HTTP methods using Flask-RESTful module
+1. Created a student class that inherits from resource class

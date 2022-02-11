@@ -9,3 +9,4 @@ making REST endpoints
 ## Flask-RESTful
 ### Creating endpoints for different HTTP methods using Flask-RESTful module
 1. Created a student class that inherits from resource class
+2.

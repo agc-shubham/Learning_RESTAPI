@@ -10,3 +10,7 @@ making REST endpoints
 ### Creating endpoints for different HTTP methods using Flask-RESTful module
 1. Created a student class that inherits from resource class
 2.
+## Creating Resources in DB
+### Creating endpoints and exposing resources(resources are created amd stored in DB) for different HTTP methods using Flask-RESTful module
+1. Creation and updation of tables in DB.
+2. Authentication using JWT.

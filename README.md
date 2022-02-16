@@ -14,3 +14,5 @@ making REST endpoints
 ### Creating endpoints and exposing resources(resources are created amd stored in DB) for different HTTP methods using Flask-RESTful module
 1. Creation and updation of tables in DB.
 2. Authentication using JWT.
+## SQL-Alchemy
+## JWT-Extended
